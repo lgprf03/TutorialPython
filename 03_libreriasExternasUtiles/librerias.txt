@@ -1,0 +1,9 @@
+Pandas
+Numpy
+MatPlotLib - Seaborn
+Scikit-learn - TensorFlow - PyTorch
+SciPy
+NLTK - SpaCy
+OpenCV 
+Pillow
+Sympy
