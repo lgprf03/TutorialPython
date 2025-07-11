@@ -1,0 +1,11 @@
+cd a la carpeta del proyecto
+
+python -m venv env
+
+cd env\Scripts
+
+activate
+
+(env)
+
+desactivate
