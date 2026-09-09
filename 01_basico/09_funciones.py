@@ -6,6 +6,10 @@ def saludar():
 def sumar(num1, num2):
     return num1 + num2
 
+# Funcion declarada
+def resta(num1: float, num2: float) -> float:
+    return num1 + num2
+
 # Funcion recursiva
 def factorial(num, result=1): 
     if num == 0: 
