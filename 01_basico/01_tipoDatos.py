@@ -10,9 +10,6 @@ if __name__ == "__main__":
     print(type(True))
     print(type(False))
     
-    # Caracter
-    print(type('a'))
-    
     # Cadena
     print(type("cadena"))
 
